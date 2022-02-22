@@ -5,7 +5,7 @@ public class HelloWorld {
 		System.out.println("Hello World");
 		System.out.println("Testing");
 		System.out.println("Refresh if needed");
-
+		System.out.println("New features made here");
 	}
 
 }
